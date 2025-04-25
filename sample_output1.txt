@@ -1,0 +1,10 @@
+Results for each replacement policy:
+
+Policy | Total Refs | Page Faults | Delayed Replacements
+-------|------------|-------------|-----------------------
+FIFO   | 9          | 4	          | 3
+LRU    | 9          | 6           | 4
+LIFO   | 9          | 6           | 4
+MRU    | 9          | 4           | 3
+LFU    | 9          | 7           | 4
+OPT    | 9          | 4           | 3

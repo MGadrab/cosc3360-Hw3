@@ -1,0 +1,6 @@
+Memory size and look-ahead value (These MUST be passed through program ARGUMENT VECTOR):
+memory_size = 2
+x = 2
+
+Page reference string (Please specify how your program receives input via a README file or a comment block at the top of your code):
+1:a 2:n 1:a 3:n 3:n 1:a 2:n 2:a 3:a
